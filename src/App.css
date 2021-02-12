@@ -1,0 +1,18 @@
+.video-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.video {
+  height: 300px;
+  width: 500px;
+}
+
+@media (max-width: 968px) {
+  .video-container {
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
