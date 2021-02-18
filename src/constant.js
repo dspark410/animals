@@ -15,7 +15,7 @@ export const videoData = [
     video: 'https://www.youtube.com/embed/2FhieaaDZBs',
   },
   {
-    video: 'https://www.youtube.com/embed/QNot4iC7K8s',
+    video: 'https://youtu.be/p2YVMTbhZqc',
   },
   {
     video: 'https://www.youtube.com/embed/4eHkbWicieg',
